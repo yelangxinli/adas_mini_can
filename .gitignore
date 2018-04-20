@@ -1,0 +1,17 @@
+*/build/*
+*.htm
+*.hex
+*.lnp
+*.plg
+*.sct
+*.crf
+*.o
+*.axf
+*.THINK
+*.dell
+*.uvopt
+*.uvoptx
+*.uvprojx
+*.dep
+
+

@@ -1,0 +1,17 @@
+.\build\obj\stm32f10x_it.o: USR\stm32f10x_it.c
+.\build\obj\stm32f10x_it.o: USR\stm32f10x_it.h
+.\build\obj\stm32f10x_it.o: .\System\stm32f10x.h
+.\build\obj\stm32f10x_it.o: .\System\core_cm3.h
+.\build\obj\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\obj\stm32f10x_it.o: .\System\system_stm32f10x.h
+.\build\obj\stm32f10x_it.o: .\Lib\inc\stm32f10x_conf.h
+.\build\obj\stm32f10x_it.o: .\Lib\inc\stm32f10x_gpio.h
+.\build\obj\stm32f10x_it.o: .\System\stm32f10x.h
+.\build\obj\stm32f10x_it.o: .\Lib\inc\stm32f10x_rcc.h
+.\build\obj\stm32f10x_it.o: .\Lib\inc\stm32f10x_exti.h
+.\build\obj\stm32f10x_it.o: .\Lib\inc\misc.h
+.\build\obj\stm32f10x_it.o: USR\pbdata.h
+.\build\obj\stm32f10x_it.o: .\Lib\inc\stm32f10x_tim.h
+.\build\obj\stm32f10x_it.o: .\Lib\inc\stm32f10x_usart.h
+.\build\obj\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\build\obj\stm32f10x_it.o: .\Lib\inc\stm32f10x_can.h

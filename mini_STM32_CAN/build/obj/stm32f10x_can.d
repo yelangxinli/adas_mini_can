@@ -1,0 +1,10 @@
+.\build\obj\stm32f10x_can.o: Lib\SRC\stm32f10x_can.c
+.\build\obj\stm32f10x_can.o: .\Lib\inc\stm32f10x_can.h
+.\build\obj\stm32f10x_can.o: .\System\stm32f10x.h
+.\build\obj\stm32f10x_can.o: .\System\core_cm3.h
+.\build\obj\stm32f10x_can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\obj\stm32f10x_can.o: .\System\system_stm32f10x.h
+.\build\obj\stm32f10x_can.o: .\Lib\inc\stm32f10x_conf.h
+.\build\obj\stm32f10x_can.o: .\Lib\inc\stm32f10x_gpio.h
+.\build\obj\stm32f10x_can.o: .\System\stm32f10x.h
+.\build\obj\stm32f10x_can.o: .\Lib\inc\stm32f10x_rcc.h
